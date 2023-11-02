@@ -10,6 +10,9 @@
   </a>
 
 <h3 align="center">Samnieng Mission 0</h3>
+<p>I'm sorry if this looks messy. This is my first time writing ReadMe document.</p>
+<p>It took a while to understand the Template.</p>
+<p>I look forward to receiving your comment.</p>
 
   
 </div>
@@ -40,13 +43,14 @@
 
 
 
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 ### Built With
 
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+<p>Bootstrap framework and CSS</p>
   
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
