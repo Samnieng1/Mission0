@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/Samnieng1/Mission0">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    
   </a>
 
 <h3 align="center">Samnieng Mission 0</h3>
