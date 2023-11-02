@@ -1,17 +1,9 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
-<a name="readme-top"></a>
 
 
 
 
 
 
-
-
-
-
-
-<br />
 <div align="center">
   <a href="https://github.com/Samnieng1/Mission0">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
